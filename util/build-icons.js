@@ -31,15 +31,6 @@ function read(file) {
   return cheerio.load(content, cheerioOptions);
 }
 
-function transmogrify($, name) {
-
-  
-  
-  return output;
-}
-
-
-
 
 icon_categories.forEach(function(cat) {
   var file = '../iron-icons/'+cat+'-icons.html';  
