@@ -1,0 +1,9 @@
+{
+  "name": "build-icons",
+  "version": "0.0.0",
+  "description": "",
+  "main": "build-icons.js",
+  "dependencies": {
+    "cheerio": "^0.17.0"
+  }
+}
