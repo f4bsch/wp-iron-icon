@@ -1,11 +1,13 @@
-# wp-iron-icon
+# wp-iron-icons
 
-Adds iron icons shortcode to WordPress. See https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html
+WordPress plugin that adds iron icons shortcode.
+See https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html
 
 
 # Shortcode
 
 Examples:
+
 ```[iron-icon icon=icons:refresh /]```
 
 ```[iron-icon icon=icons:refresh size=48 /]```
